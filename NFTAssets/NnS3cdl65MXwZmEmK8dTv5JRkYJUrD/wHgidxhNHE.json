@@ -1,0 +1,19 @@
+{
+  "title": "ERRT",
+  "description": "ERRT will be great and change everything in your life",
+  "media": "http://localhost:3000/NFTAssets/NnS3cdl65MXwZmEmK8dTv5JRkYJUrD/wHgidxhNHE.jpg",
+  "animation_url": "",
+  "document": "",
+  "external_url": "https://wffweffe.com",
+  "background_color": "b15959",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gold"
+    }
+  ]
+}
